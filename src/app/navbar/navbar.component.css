@@ -2,13 +2,13 @@
     text-align: center;
     color: white;
     font-size: 20px;
-    margin-left: 500px;
+    margin-left: 300px;
     border: 250px;
     font-size: 40px;
 }
 
 .repo {
-    margin-left: 70px;
+    margin-left: 200px;
     color: white;
     font-size: 17px;
     position: fixed;
@@ -17,4 +17,5 @@
 .user {
     color: white;
     font-size: 17px;
+    margin-left: 30px;
 }
