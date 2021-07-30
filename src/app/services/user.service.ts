@@ -11,8 +11,7 @@ import { map } from 'rxjs/operators';
 })
 export class UserService {
   name: string;
-  
-
+        
   constructor(private _http: HttpClient) { 
     console.log('User Service Ready...');
     this.name =  'Malobz';
