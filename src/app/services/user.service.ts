@@ -11,10 +11,7 @@ import { map } from 'rxjs/operators';
 })
 export class UserService {
   name: string;
-  // bio: string;
-  // created_at:string;
-  // repos_url: string;
-  // avatar_url: string;
+  
 
   constructor(private _http: HttpClient) { 
     console.log('User Service Ready...');
