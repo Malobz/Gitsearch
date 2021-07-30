@@ -6,3 +6,7 @@
     color: purple;
     text-decoration: underline;
 }
+
+.well {
+    margin-top: 10px;
+}
