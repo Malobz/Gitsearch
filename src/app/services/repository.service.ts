@@ -7,12 +7,7 @@ import { map } from 'rxjs/operators';
 })
 export class RepositoryService {
   name: string;
-  // html_url: string;
-  // description: string;
-  // downloads_url: string;
-  // forks: string;
-  // watchers: string;
-
+  
   constructor(private _http: HttpClient) { 
     console.log('Repository Service Ready...');
     this.name =  'Akan-Names';
