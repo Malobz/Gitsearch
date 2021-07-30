@@ -1,0 +1,28 @@
+.head {
+    background-color: rgb(9, 51, 167);
+    width: 100%;
+    height: 10vh;
+    position: relative;
+    margin-top: -8px;
+}
+
+.navbar-brand {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-left: 500px;
+    border: 250px;
+    font-size: 40px;
+}
+
+.repo {
+    margin-left: 70px;
+    color: white;
+    font-size: 17px;
+    position: fixed;
+}
+
+.user {
+    color: white;
+    font-size: 17px;
+}
